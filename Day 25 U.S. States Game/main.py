@@ -1,4 +1,6 @@
 import writer
+import turtle
+import pandas
 
 # Setup Screen
 screen = turtle.Screen()
@@ -6,12 +8,12 @@ screen.title("U.S. States Game")
 screen.setup(width=730, height=500)
 
 # Set background (USA map)
-image = "blank_states_img.gif"
+image = "Day 25 U.S. States Game\\blank_states_img.gif"
 screen.addshape(image)
 turtle.shape(image)
 
 # Read file
-data = pandas.read_csv("50_states.csv")
+data = pandas.read_csv("Day 25 U.S. States Game\\50_states.csv")
 
 # Create writer and scoreboard
 writer = writer.Writer()
