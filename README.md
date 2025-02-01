@@ -13,9 +13,11 @@ This repository contains projects created during working on the <a href="https:/
 - Day 9: Secret Auction
 - Day 10: Calculator
 - Day 11: Blackjack
-- Day 12: Number Guessing Game <br>
-Day 13: Exercises on debugging
+- Day 12: Number Guessing Game 
+<br>Day 13: Exercises on debugging
 - Day 14: Higher Lower Game
+- Day 15: Coffee Machine
+- Day 16: OOP Coffee Machine
 - Day 17: Quiz Game
 - Day 18: Dot Painting Maker
 - Day 19: Turtle Race
