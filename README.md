@@ -13,7 +13,7 @@ This repository contains projects created during working on the <a href="https:/
 - Day 9: Secret Auction
 - Day 10: Calculator
 - Day 11: Blackjack
-- Day 12: Number Guessing Game
+- Day 12: Number Guessing Game <br>
 Day 13: Exercises on debugging
 - Day 14: Higher Lower Game
 - Day 17: Quiz Game
