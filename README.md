@@ -22,3 +22,14 @@ This repository contains projects created during working on the <a href="https:/
 - Day 18: Dot Painting Maker
 - Day 19: Turtle Race
 - Day 22: Pong Game
+- Day 23: Turtle Crossing Game
+- Day 24: Mail Merge
+- Day 25: U.S. States Game
+- Day 26: NATO Alphabet
+- Day 27: Mile to Km
+- Day 28: Pomodoro
+- Day 29: Password Manager
+<br>Day 30: Improving Password Manager
+- Day 31: Flash Cards
+- Day 32: Birthday Wisher
+- Day 33: ISS Overhead
