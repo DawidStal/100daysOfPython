@@ -33,3 +33,5 @@ This repository contains projects created during working on the <a href="https:/
 - Day 31: Flash Cards
 - Day 32: Birthday Wisher
 - Day 33: ISS Overhead
+- Day 34: Quiz Game
+- Day 35: Weather Alert
