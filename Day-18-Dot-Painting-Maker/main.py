@@ -2,7 +2,7 @@ import turtle as t
 import random
 import colorgram
 
-colors = colorgram.extract('image.jpg', 30)
+colors = colorgram.extract('Day-18-Dot-Painting-Maker\\image.jpg', 30)
 
 rgb_colors=[]
 for color in colors:
