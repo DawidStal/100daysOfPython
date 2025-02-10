@@ -21,6 +21,8 @@ This repository contains projects created during working on the <a href="https:/
 - Day 17: Quiz Game
 - Day 18: Dot Painting Maker
 - Day 19: Turtle Race
+- Day 20: Snake Game
+<br>Day 21: Finishing Snake Game
 - Day 22: Pong Game
 - Day 23: Turtle Crossing Game
 - Day 24: Mail Merge
