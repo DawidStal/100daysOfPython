@@ -38,3 +38,4 @@ This repository contains projects created during working on the <a href="https:/
 - Day 34: Quiz Game
 - Day 35: Weather Alert
 - Day 36: Stock News
+- Day 37: Habit Tracking
