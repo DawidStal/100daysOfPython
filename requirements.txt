@@ -1,0 +1,9 @@
+beautifulsoup4
+colorgram.py
+Flask
+pandas
+python-dotenv
+requests
+selenium
+spotipy
+twilio
