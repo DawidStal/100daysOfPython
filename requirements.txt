@@ -7,3 +7,5 @@ requests
 selenium
 spotipy
 twilio
+flask_sqlalchemy==3.1.1
+SQLAlchemy==2.0.25
